@@ -1,0 +1,3 @@
+# Files to be excluded from commit in git local repository
+.DS_Store
+secrets.txt
